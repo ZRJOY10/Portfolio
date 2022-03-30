@@ -1,0 +1,19 @@
+.flex{
+    /*take in one line*/
+    display: flex;
+}
+.flex-1{
+    flex: 1;
+}
+.item-center{
+    /*take them center*/
+    align-items: center;
+}
+
+.justify-between{
+    /*arrange in a form*/
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
